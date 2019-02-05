@@ -1,6 +1,8 @@
 # objectdetectionRPi
 Detect the red ball using a Raspberry Pi and PiCam
 
+For details, please visit: https://hackaday.io/project/9629/logs
+
 # Part 1:
 
 Download the OpenCVTest_1.py from the files.
